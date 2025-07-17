@@ -69,7 +69,7 @@ _Models trained with early stopping and tested on unseen time periods._
 
 _Comparison of predicted vs actual returns for each sector._
 
-![Predicted vs Actual Returns](assets/pred_vs_actual.png)
+![Predicted vs Actual Returns](pred_vs_actual.png)
 
 ---
 
