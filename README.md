@@ -8,11 +8,9 @@ This project implements a **Graph Fourier Neural Operator (GFNO)** for **daily r
 
 ```bash
 .
-├── data/                   # Preprocessed ETF returns, macro features (U), dates
-├── models/                 # GFNO architecture
-├── utils/                  # Helpers: Fourier ops, loss, plotting, evaluation
-├── notebook.ipynb          # 🔍 Main notebook with training, evaluation, plots
-├── requirements.txt        # Package dependencies
+├── gfno                    # Training and backtesting
+├── gfno_model              # GFNO model
+├── pred_vs_actual          # Plotting
 └── README.md               # You're here!
 ```
 
