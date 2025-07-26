@@ -155,7 +155,4 @@ torch.cuda.manual_seed_all(SEED)
 [LinkedIn](https://www.linkedin.com/in/nachiket-chondhikar)
 
 ---
-
-## 📜 License
-
-MIT License
+# Thanks For Reading Through! Any feedbacks and suggestions are welcome!
